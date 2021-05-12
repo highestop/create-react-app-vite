@@ -1,9 +1,9 @@
 {
-  "name": "demo-create-app-vite",
+  "name": "demo-react-app-vite",
   "version": "0.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/highestop/demo-create-app-vite.git"
+    "url": "https://github.com/highestop/demo-react-app-vite.git"
   },
   "private": true,
   "scripts": {
